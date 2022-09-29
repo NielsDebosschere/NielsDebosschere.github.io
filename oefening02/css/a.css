@@ -1,0 +1,22 @@
+body{
+    /*lettertype*/
+    font-family: sans-serif;
+    /*achtergrondkleur*/
+    background-color: green;
+}
+
+    h1{
+    /* onze heading een beetje groter maken */
+    font-size: 3rem;
+}
+
+img{
+    /* een achtergrondkleur instellen voor het transparante logo */
+    background-color: blue;
+    /* de afbeelding responsive maken */
+    max-width: 100%;
+    }
+    .inspringing {
+    /* sommige paragrafen geven we een linkse inspringing */
+    margin-left: 40px;
+    }
